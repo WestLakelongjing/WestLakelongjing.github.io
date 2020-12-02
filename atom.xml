@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>桃花水母简史盐究概论</title>
+  
+  <subtitle>时空尽头的餐厅</subtitle>
+  <link href="https://www.taohuaferry.ink/atom.xml" rel="self"/>
+  
+  <link href="https://www.taohuaferry.ink/"/>
+  <updated>2020-12-01T05:43:42.518Z</updated>
+  <id>https://www.taohuaferry.ink/</id>
+  
+  <author>
+    <name>桃花水母简史盐究概论</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.taohuaferry.ink/2020/12/01/hello-world/"/>
+    <id>https://www.taohuaferry.ink/2020/12/01/hello-world/</id>
+    <published>2020-12-01T15:24:06.551Z</published>
+    <updated>2020-12-01T05:43:42.518Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>A</title>
+    <link href="https://www.taohuaferry.ink/2020/12/01/A/"/>
+    <id>https://www.taohuaferry.ink/2020/12/01/A/</id>
+    <published>2020-12-01T15:23:33.000Z</published>
+    <updated>2020-12-01T15:23:33.237Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
