@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>桃花水母简史</title>
+  <title>桃花水母</title>
   
   <subtitle>宇宙尽头的餐厅</subtitle>
   <link href="https://www.taohuaferry.ink/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://www.taohuaferry.ink/</id>
   
   <author>
-    <name>桃花水母简史</name>
+    <name>桃花水母</name>
     
   </author>
   
